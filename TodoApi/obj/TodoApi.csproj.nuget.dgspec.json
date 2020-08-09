@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\az\\source\\repos\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\az\\Desktop\\Week3_WebAPI\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\az\\source\\repos\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\az\\Desktop\\Week3_WebAPI\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\az\\source\\repos\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\az\\Desktop\\Week3_WebAPI\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\az\\source\\repos\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\az\\Desktop\\Week3_WebAPI\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\az\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\az\\source\\repos\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\az\\Desktop\\Week3_WebAPI\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\az\\AppData\\Roaming\\NuGet\\NuGet.Config",
